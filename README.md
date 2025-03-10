@@ -1,6 +1,6 @@
 # AMIGO SECRETO  
 
-![Portada del Proyecto](portada.png)  
+![Portada del Proyecto](assets/portada.png)  
 
 ## 🏅 Insignias  
 ![Versión](https://img.shields.io/badge/version-1.0-blue)  
