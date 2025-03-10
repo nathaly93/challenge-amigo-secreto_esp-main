@@ -30,7 +30,7 @@
 ##  Acceso al Proyecto  
 Puedes acceder al proyecto en:  
 🔗 [Repositorio en GitHub](https://github.com/nathaly93/challenge-amigo-secreto_esp-main)  
-🔗 [Versión en vivo](https://tu-proyecto.com)  
+🔗 [Versión en vivo](https://nathaly93.github.io/challenge-amigo-secreto_esp-main/)  
 
 ## 🛠 Tecnologías Utilizadas  
 -  **Lenguajes:** HTML, CSS, JavaScript
